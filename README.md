@@ -7,6 +7,7 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpmacielprado&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpmacielprado&layout=compact&theme=tokyonight)
 
+
 ##
 
 <div style="display: inline_block"><br>
@@ -23,4 +24,7 @@
  <a href = "mailto:jp.macielprado@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
   <a href="https://www.linkedin.com/in/joão-maciel-58181531b" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
 
-![download-unscreen](https://github.com/user-attachments/assets/f6562edf-3ec2-4a71-a9ea-bdd10e0ee1ac)
+![download-unscreen (1)](https://github.com/user-attachments/assets/042d858b-a51c-4f90-bcd1-3817ff19c87e)
+                           
+
+
