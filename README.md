@@ -1,9 +1,5 @@
 ### OLÁ! Eu sou @jpmacielprado
 
-- 🎉 Aniversário: 11/27
-- 🌱 No momento estou cursando técnico em Análise e Desenvlvimento de sistemas no SENAI
-- 🐍 Aprendendo Python
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=jpmacielprado&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jpmacielprado&layout=compact&theme=tokyonight)
 <link rel="stylesheet" type='text/css' href="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/devicon.min.css" />
