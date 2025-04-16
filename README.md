@@ -4,7 +4,7 @@
 
  <div href="https://github.com/jpmacielprado">
     <img height="180em"  width="48%" src="https://github-readme-stats.vercel.app./api?username=jpmacielprado&show_icons=true&theme=dark&include_all_commit=true&count_private=true"/>
-    <img height="210em"  width="50%" src="https://github-readme-stats.vercel.app./api/top-langs/?username=jpmacielprado&layout=compact&langs_count=168&theme=dark"/>
+    <img height="180em"  width="50%" src="https://github-readme-stats.vercel.app./api/top-langs/?username=jpmacielprado&layout=compact&langs_count=168&theme=dark"/>
 </div>
 
 ##
