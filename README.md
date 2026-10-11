@@ -8,7 +8,7 @@
  
  ### MY skills:
  
- [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,postman,pr,ps,ai,git,github,figma,react,mysql,nodejs)](https://skillicons.dev)
+ [![My Skills](https://skillicons.dev/icons?i=html,css,typescript,git,github,react,mysql,python,tailwindcss)](https://skillicons.dev)
 </div><br>
 
 ##
